@@ -29,8 +29,8 @@ yarn-error.log*
 Thumbs.db
 
 # React specific
-client/build/
-client/.env
+# client/build/
+# client/.env
 
 # Temporary files
 *.tmp
